@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajveer004/Coding/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rajveer004/Coding/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rajveer004/Coding/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
