@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rajveer004/Coding/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/rajveer004/Coding/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rajveer004/Coding/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/rajveer004/Coding/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
