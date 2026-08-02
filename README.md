@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/rajveer004/Coding/tree/master/0024-swap-nodes-in-pairs) |
 | [0328-odd-even-linked-list](https://github.com/rajveer004/Coding/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajveer004/Coding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajveer004/Coding/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/rajveer004/Coding/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/rajveer004/Coding/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/rajveer004/Coding/tree/master/0326-power-of-three) |
 ## String
