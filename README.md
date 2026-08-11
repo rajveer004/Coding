@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/rajveer004/Coding/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/rajveer004/Coding/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajveer004/Coding/tree/master/0918-maximum-sum-circular-subarray) |
+| [3693-climbing-stairs-ii](https://github.com/rajveer004/Coding/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/rajveer004/Coding/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/rajveer004/Coding/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajveer004/Coding/tree/master/0918-maximum-sum-circular-subarray) |
+| [3693-climbing-stairs-ii](https://github.com/rajveer004/Coding/tree/master/3693-climbing-stairs-ii) |
 ## Game Theory
 |  |
 | ------- |
