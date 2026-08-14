@@ -75,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajveer004/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/rajveer004/Coding/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajveer004/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rajveer004/Coding/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajveer004/Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/rajveer004/Coding/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajveer004/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/rajveer004/Coding/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/rajveer004/Coding/tree/master/0189-rotate-array) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rajveer004/Coding/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/rajveer004/Coding/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajveer004/Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/rajveer004/Coding/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/rajveer004/Coding/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/rajveer004/Coding/tree/master/0746-min-cost-climbing-stairs) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajveer004/Coding/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/rajveer004/Coding/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
@@ -163,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/rajveer004/Coding/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/rajveer004/Coding/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/rajveer004/Coding/tree/master/1289-minimum-falling-path-sum-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
