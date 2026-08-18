@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajveer004/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1219-path-with-maximum-gold](https://github.com/rajveer004/Coding/tree/master/1219-path-with-maximum-gold) |
 ## Array
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rajveer004/Coding/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajveer004/Coding/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/rajveer004/Coding/tree/master/0931-minimum-falling-path-sum) |
+| [1219-path-with-maximum-gold](https://github.com/rajveer004/Coding/tree/master/1219-path-with-maximum-gold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/rajveer004/Coding/tree/master/1289-minimum-falling-path-sum-ii) |
 | [3693-climbing-stairs-ii](https://github.com/rajveer004/Coding/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rajveer004/Coding/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/rajveer004/Coding/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/rajveer004/Coding/tree/master/0931-minimum-falling-path-sum) |
+| [1219-path-with-maximum-gold](https://github.com/rajveer004/Coding/tree/master/1219-path-with-maximum-gold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/rajveer004/Coding/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Trie
 |  |
