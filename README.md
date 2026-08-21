@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/rajveer004/Coding/tree/master/0931-minimum-falling-path-sum) |
 | [1219-path-with-maximum-gold](https://github.com/rajveer004/Coding/tree/master/1219-path-with-maximum-gold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/rajveer004/Coding/tree/master/1289-minimum-falling-path-sum-ii) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajveer004/Coding/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3693-climbing-stairs-ii](https://github.com/rajveer004/Coding/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajveer004/Coding/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajveer004/Coding/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 <!---LeetCode Topics End-->
