@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rajveer004/Coding/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/rajveer004/Coding/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rajveer004/Coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rajveer004/Coding/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/rajveer004/Coding/tree/master/0326-power-of-three) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rajveer004/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajveer004/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rajveer004/Coding/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/rajveer004/Coding/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/rajveer004/Coding/tree/master/0344-reverse-string) |
 ## Hash Table
@@ -203,5 +205,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rajveer004/Coding/tree/master/0067-add-binary) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajveer004/Coding/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rajveer004/Coding/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
