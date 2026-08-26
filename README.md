@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajveer004/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/rajveer004/Coding/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rajveer004/Coding/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/rajveer004/Coding/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajveer004/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/rajveer004/Coding/tree/master/0120-triangle) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rajveer004/Coding/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rajveer004/Coding/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/rajveer004/Coding/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/rajveer004/Coding/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/rajveer004/Coding/tree/master/0931-minimum-falling-path-sum) |
@@ -215,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rajveer004/Coding/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rajveer004/Coding/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
