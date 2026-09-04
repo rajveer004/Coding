@@ -6,11 +6,12 @@ public:
         string B = to_string(b);
         return A+B > B+A;
        });
+       if(nums[0]==0)return "0";
        string ans="";
        for(int ele:nums){
         ans += to_string(ele);
        }
-       if(ans[0]=='0')return "0";
+       
        return ans;
     }
 };
