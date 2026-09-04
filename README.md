@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/rajveer004/Coding/tree/master/1219-path-with-maximum-gold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/rajveer004/Coding/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajveer004/Coding/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/rajveer004/Coding/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3693-climbing-stairs-ii](https://github.com/rajveer004/Coding/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajveer004/Coding/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rajveer004/Coding/tree/master/0067-add-binary) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/rajveer004/Coding/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rajveer004/Coding/tree/master/0056-merge-intervals) |
+## Counting
+|  |
+| ------- |
+| [2960-count-tested-devices-after-test-operations](https://github.com/rajveer004/Coding/tree/master/2960-count-tested-devices-after-test-operations) |
 <!---LeetCode Topics End-->
