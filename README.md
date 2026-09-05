@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajveer004/Coding/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajveer004/Coding/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/rajveer004/Coding/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/rajveer004/Coding/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3693-climbing-stairs-ii](https://github.com/rajveer004/Coding/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
