@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajveer004/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajveer004/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rajveer004/Coding/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rajveer004/Coding/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/rajveer004/Coding/tree/master/0344-reverse-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajveer004/Coding/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajveer004/Coding/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rajveer004/Coding/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rajveer004/Coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rajveer004/Coding/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rajveer004/Coding/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/rajveer004/Coding/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/rajveer004/Coding/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rajveer004/Coding/tree/master/1137-n-th-tribonacci-number) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajveer004/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajveer004/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/rajveer004/Coding/tree/master/0202-happy-number) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajveer004/Coding/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Backtracking
 |  |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajveer004/Coding/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rajveer004/Coding/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
