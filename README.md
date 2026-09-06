@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/rajveer004/Coding/tree/master/0279-perfect-squares) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rajveer004/Coding/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rajveer004/Coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rajveer004/Coding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rajveer004/Coding/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/rajveer004/Coding/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/rajveer004/Coding/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/rajveer004/Coding/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rajveer004/Coding/tree/master/1137-n-th-tribonacci-number) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/rajveer004/Coding/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/rajveer004/Coding/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/rajveer004/Coding/tree/master/0279-perfect-squares) |
 | [0746-min-cost-climbing-stairs](https://github.com/rajveer004/Coding/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/rajveer004/Coding/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajveer004/Coding/tree/master/0918-maximum-sum-circular-subarray) |
@@ -268,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3028-ant-on-the-boundary](https://github.com/rajveer004/Coding/tree/master/3028-ant-on-the-boundary) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/rajveer004/Coding/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/rajveer004/Coding/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
