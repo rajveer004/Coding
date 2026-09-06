@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajveer004/Coding/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/rajveer004/Coding/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/rajveer004/Coding/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3028-ant-on-the-boundary](https://github.com/rajveer004/Coding/tree/master/3028-ant-on-the-boundary) |
 | [3693-climbing-stairs-ii](https://github.com/rajveer004/Coding/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rajveer004/Coding/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/rajveer004/Coding/tree/master/0067-add-binary) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/rajveer004/Coding/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3028-ant-on-the-boundary](https://github.com/rajveer004/Coding/tree/master/3028-ant-on-the-boundary) |
 ## Sorting
 |  |
 | ------- |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rajveer004/Coding/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/rajveer004/Coding/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
