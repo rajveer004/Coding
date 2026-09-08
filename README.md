@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rajveer004/Coding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rajveer004/Coding/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/rajveer004/Coding/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/rajveer004/Coding/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/rajveer004/Coding/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/rajveer004/Coding/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rajveer004/Coding/tree/master/1137-n-th-tribonacci-number) |
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rajveer004/Coding/tree/master/0300-longest-increasing-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/rajveer004/Coding/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
