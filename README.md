@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/rajveer004/Coding/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/rajveer004/Coding/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/rajveer004/Coding/tree/master/0343-integer-break) |
+| [0507-perfect-number](https://github.com/rajveer004/Coding/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/rajveer004/Coding/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rajveer004/Coding/tree/master/1137-n-th-tribonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajveer004/Coding/tree/master/3345-smallest-divisible-digit-product-i) |
