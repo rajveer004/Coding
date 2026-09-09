@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/rajveer004/Coding/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/rajveer004/Coding/tree/master/0344-reverse-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/rajveer004/Coding/tree/master/3146-permutation-difference-between-two-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rajveer004/Coding/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rajveer004/Coding/tree/master/0217-contains-duplicate) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajveer004/Coding/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3146-permutation-difference-between-two-strings](https://github.com/rajveer004/Coding/tree/master/3146-permutation-difference-between-two-strings) |
 ## Backtracking
 |  |
 | ------- |
