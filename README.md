@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/rajveer004/Coding/tree/master/1219-path-with-maximum-gold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/rajveer004/Coding/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajveer004/Coding/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/rajveer004/Coding/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajveer004/Coding/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/rajveer004/Coding/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/rajveer004/Coding/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
