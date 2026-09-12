@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/rajveer004/Coding/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rajveer004/Coding/tree/master/0217-contains-duplicate) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rajveer004/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajveer004/Coding/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/rajveer004/Coding/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajveer004/Coding/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/rajveer004/Coding/tree/master/0931-minimum-falling-path-sum) |
 | [1219-path-with-maximum-gold](https://github.com/rajveer004/Coding/tree/master/1219-path-with-maximum-gold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/rajveer004/Coding/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rajveer004/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajveer004/Coding/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/rajveer004/Coding/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajveer004/Coding/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rajveer004/Coding/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/rajveer004/Coding/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/rajveer004/Coding/tree/master/0217-contains-duplicate) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rajveer004/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajveer004/Coding/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Quicksort
 |  |
