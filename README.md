@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajveer004/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajveer004/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/rajveer004/Coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rajveer004/Coding/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rajveer004/Coding/tree/master/0217-contains-duplicate) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajveer004/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/rajveer004/Coding/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajveer004/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/rajveer004/Coding/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/rajveer004/Coding/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/rajveer004/Coding/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/rajveer004/Coding/tree/master/0189-rotate-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajveer004/Coding/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajveer004/Coding/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rajveer004/Coding/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/rajveer004/Coding/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rajveer004/Coding/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/rajveer004/Coding/tree/master/0217-contains-duplicate) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajveer004/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajveer004/Coding/tree/master/0169-majority-element) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/rajveer004/Coding/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Heap (Priority Queue)
 |  |
@@ -303,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/rajveer004/Coding/tree/master/0319-bulb-switcher) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rajveer004/Coding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
