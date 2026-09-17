@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajveer004/Coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rajveer004/Coding/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rajveer004/Coding/tree/master/0217-contains-duplicate) |
+| [0740-delete-and-earn](https://github.com/rajveer004/Coding/tree/master/0740-delete-and-earn) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajveer004/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajveer004/Coding/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/rajveer004/Coding/tree/master/3146-permutation-difference-between-two-strings) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rajveer004/Coding/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/rajveer004/Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rajveer004/Coding/tree/master/0322-coin-change) |
+| [0740-delete-and-earn](https://github.com/rajveer004/Coding/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/rajveer004/Coding/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/rajveer004/Coding/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajveer004/Coding/tree/master/0918-maximum-sum-circular-subarray) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rajveer004/Coding/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rajveer004/Coding/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/rajveer004/Coding/tree/master/0343-integer-break) |
+| [0740-delete-and-earn](https://github.com/rajveer004/Coding/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/rajveer004/Coding/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/rajveer004/Coding/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajveer004/Coding/tree/master/0918-maximum-sum-circular-subarray) |
