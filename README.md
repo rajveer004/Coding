@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajveer004/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rajveer004/Coding/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/rajveer004/Coding/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/rajveer004/Coding/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/rajveer004/Coding/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/rajveer004/Coding/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/rajveer004/Coding/tree/master/0344-reverse-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rajveer004/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/rajveer004/Coding/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rajveer004/Coding/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/rajveer004/Coding/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/rajveer004/Coding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rajveer004/Coding/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/rajveer004/Coding/tree/master/0120-triangle) |
