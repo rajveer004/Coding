@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int maxNumberOfBalloons(string text) {
+        int freq[26];
+        for(int i=0;i<text.length();i++){
+            freq[text[i]-'a']++;
+        }
+        return min({
+            freq['b'-'a'],
+            freq['a'-'a'],
+            freq['l'-'a']/2,
+            freq['o'-'a']/2,
+            freq['n'-'a'],
+        });
+    }
+};
